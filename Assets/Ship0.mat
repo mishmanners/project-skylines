@@ -4,12 +4,13 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: Ship0
-  m_Shader: {fileID: 4800000, guid: f41b97872ce3bba439516a22765e895b, type: 3}
-  m_ShaderKeywords: _ALPHATEST_ON _EMISSION _GLOW_ON _MODE_DEFAULT _WLIGHT_SURFACE
-    _WSTYLE_DEFAULT _WUV_UV0
+  m_Shader: {fileID: 45, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: _ALPHATEST_ON _GLOW_ON _MODE_DEFAULT _WLIGHT_SURFACE _WSTYLE_DEFAULT
+    _WUV_UV0
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -53,6 +54,10 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -112,4 +117,6 @@ Material:
     - _Color: {r: 0.2647059, g: 0.2647059, b: 0.2647059, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _GColor: {r: 0, g: 0.7529412, b: 1, a: 1}
+    - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
     - _WColor: {r: 0, g: 0.751724, b: 1, a: 1}
+  m_BuildTextureStacks: []
