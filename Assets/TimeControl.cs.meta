@@ -1,11 +1,23 @@
 fileFormatVersion: 2
 guid: 3cc1ddb86ef7f274285ddb05bb2eab5d
-timeCreated: 1510339372
-licenseType: Free
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - TimeBar: {instanceID: 0}
+  - View: {instanceID: 0}
+  - Score: {instanceID: 0}
+  - ScoreCenter: {instanceID: 0}
+  - GameOver: {instanceID: 0}
+  - Title: {instanceID: 0}
+  - RestartBtn: {instanceID: 0}
+  - StartBtn: {instanceID: 0}
+  - PlayerPrefab: {fileID: 1487220595160186, guid: de0cf47d47318e94483f1669ea325fe5,
+      type: 3}
+  - Sound: {instanceID: 0}
+  - InvertTxt: {instanceID: 0}
+  - InvertCheck: {instanceID: 0}
+  - Invert: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

@@ -295,7 +295,7 @@ Animator:
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: eab6d2f90fc33a248a5e1eee31c76846, type: 3}
   m_Controller: {fileID: 0}
-  m_CullingMode: 2
+  m_CullingMode: 0
   m_UpdateMode: 1
   m_ApplyRootMotion: 1
   m_LinearVelocityBlending: 0
@@ -328,7 +328,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Control: {fileID: 0}
-  Model: {fileID: 0}
+  Model: {fileID: 8421380923190918919}
   Controls: {fileID: 0}
   CrashAudio: {fileID: 0}
   World: {fileID: 0}
@@ -344,5 +344,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71c008b860fb0d84493a7d181f51c970, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TargetShip: {fileID: 0}
+  TargetShip: {fileID: 8421380923190918919}
   Offset: {x: 0, y: 0, z: 0}

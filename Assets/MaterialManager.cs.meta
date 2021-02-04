@@ -1,11 +1,10 @@
 fileFormatVersion: 2
 guid: 8b4f6d2a2b3f02443804b9930b36c1b2
-timeCreated: 1510016087
-licenseType: Free
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - Terrain: {fileID: 10651, guid: 0000000000000000f000000000000000, type: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

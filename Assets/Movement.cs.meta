@@ -1,11 +1,15 @@
 fileFormatVersion: 2
 guid: 9b67576e7da945d4abe2e66b1d91a4a9
-timeCreated: 1510289027
-licenseType: Free
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - LeftTrail: {instanceID: 0}
+  - RightTrail: {instanceID: 0}
+  - TrailMaterial: {fileID: 10301, guid: 0000000000000000f000000000000000, type: 0}
+  - LeftSource: {instanceID: 0}
+  - RightSource: {instanceID: 0}
+  - SwooshClip: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

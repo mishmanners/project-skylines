@@ -41,7 +41,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1196516499900594}
-  m_Mesh: {fileID: 4300000, guid: eab6d2f90fc33a248a5e1eee31c76846, type: 3}
+  m_Mesh: {fileID: 4493585093827132993, guid: eab6d2f90fc33a248a5e1eee31c76846, type: 3}
 --- !u!23 &23385948041711094
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -61,7 +61,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: fac7e21155ee24941be9c59ecd4721e6, type: 2}
+  - {fileID: 2100000, guid: a23f4d39511ebcf47adf7d50791f16d7, type: 2}
   - {fileID: 2100000, guid: fac7e21155ee24941be9c59ecd4721e6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -97,7 +97,7 @@ MeshCollider:
   serializedVersion: 4
   m_Convex: 1
   m_CookingOptions: 30
-  m_Mesh: {fileID: 4300000, guid: eab6d2f90fc33a248a5e1eee31c76846, type: 3}
+  m_Mesh: {fileID: 0}
 --- !u!114 &114179121289230248
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -203,7 +203,7 @@ TrailRenderer:
       m_RotationOrder: 0
     colorGradient:
       serializedVersion: 2
-      key0: {r: 1, g: 0.5586207, b: 0, a: 1}
+      key0: {r: 0.039649326, g: 0.7550967, b: 0.9339623, a: 1}
       key1: {r: 1, g: 1, b: 1, a: 0}
       key2: {r: 0, g: 0, b: 0, a: 0}
       key3: {r: 0, g: 0, b: 0, a: 0}
@@ -285,7 +285,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Control: {fileID: 0}
-  Model: {fileID: 1196516499900594}
+  Model: {fileID: 8421380923190918919, guid: 62a1f6a45f0e70649acc211d8102b9a8, type: 3}
   Controls: {fileID: 114384229558041416}
   CrashAudio: {fileID: 82793889184998400, guid: e430fe56b79eb5d4f9deada9acc58a9f,
     type: 3}
@@ -359,7 +359,7 @@ MonoBehaviour:
   TrailColor: {r: 0, g: 0.95253134, b: 1, a: 1}
   LeftPosition: {x: 3, y: -0.6, z: -0.9}
   RightPosition: {x: -3, y: -0.6, z: -0.9}
-  TrailMaterial: {fileID: 10306, guid: 0000000000000000f000000000000000, type: 0}
+  TrailMaterial: {fileID: 10308, guid: 0000000000000000f000000000000000, type: 0}
   LeftSource: {fileID: 0}
   RightSource: {fileID: 0}
   SwooshClip: {fileID: 8300000, guid: b0db1972f5dfd1b4f9b1d1cb55c4fef3, type: 3}
@@ -456,7 +456,7 @@ TrailRenderer:
       m_RotationOrder: 0
     colorGradient:
       serializedVersion: 2
-      key0: {r: 1, g: 0.5586207, b: 0, a: 1}
+      key0: {r: 0.039649326, g: 0.7550967, b: 0.9339623, a: 1}
       key1: {r: 1, g: 1, b: 1, a: 0}
       key2: {r: 0, g: 0, b: 0, a: 0}
       key3: {r: 0, g: 0, b: 0, a: 0}

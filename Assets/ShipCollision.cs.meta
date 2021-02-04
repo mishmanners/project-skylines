@@ -1,11 +1,14 @@
 fileFormatVersion: 2
 guid: 4298d04c1151b4f48abe05c63eb9c0fb
-timeCreated: 1510334953
-licenseType: Free
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - Control: {instanceID: 0}
+  - Model: {fileID: 8421380923190918919, guid: 62a1f6a45f0e70649acc211d8102b9a8, type: 3}
+  - Controls: {instanceID: 0}
+  - CrashAudio: {instanceID: 0}
+  - World: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

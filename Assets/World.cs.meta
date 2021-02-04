@@ -1,11 +1,11 @@
 fileFormatVersion: 2
 guid: 6cf1a86f4a8c1644f92fc99a5116b2a8
-timeCreated: 1509763491
-licenseType: Free
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - Player: {fileID: 1487220595160186, guid: de0cf47d47318e94483f1669ea325fe5, type: 3}
+  - WorldMaterial: {fileID: 2100000, guid: ac484c1f88c1c4a45b1437cf65ef4d1d, type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
