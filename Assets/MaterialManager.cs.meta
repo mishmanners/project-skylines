@@ -4,7 +4,7 @@ MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
-  - Terrain: {fileID: 10651, guid: 0000000000000000f000000000000000, type: 0}
+  - Terrain: {fileID: 2100000, guid: ac484c1f88c1c4a45b1437cf65ef4d1d, type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

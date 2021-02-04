@@ -7,7 +7,8 @@ MonoImporter:
   - Control: {instanceID: 0}
   - Model: {fileID: 8421380923190918919, guid: 62a1f6a45f0e70649acc211d8102b9a8, type: 3}
   - Controls: {instanceID: 0}
-  - CrashAudio: {instanceID: 0}
+  - CrashAudio: {fileID: 82793889184998400, guid: e430fe56b79eb5d4f9deada9acc58a9f,
+      type: 3}
   - World: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
