@@ -282,7 +282,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Control: {fileID: 0}
-  Model: {fileID: 1196516499900594}
+  Model: {fileID: 1487220595160186}
   Controls: {fileID: 114384229558041416}
   CrashAudio: {fileID: 82793889184998400, guid: e430fe56b79eb5d4f9deada9acc58a9f,
     type: 3}
