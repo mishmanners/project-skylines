@@ -580,7 +580,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71c008b860fb0d84493a7d181f51c970, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TargetShip: {fileID: 0}
+  TargetShip: {fileID: 1487220595160186, guid: de0cf47d47318e94483f1669ea325fe5, type: 3}
   Offset: {x: 0, y: 4, z: -6}
 --- !u!114 &729518489
 MonoBehaviour:
