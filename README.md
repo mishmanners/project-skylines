@@ -1,6 +1,6 @@
 # project-skylines [![Build Status](https://travis-ci.org/Zaphyk/project-skylines.svg?branch=master)](https://travis-ci.org/Zaphyk/project-skylines)
 
-retro 3d game made in under 20 days for the GithubGameOff 2017.
+Retro 3d game made in under 20 days for the GithubGameOff 2017.
 
 [download latest build at itch.io](https://zaphyk.itch.io/neon-skylines)
 
